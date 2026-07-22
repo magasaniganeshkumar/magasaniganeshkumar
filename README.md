@@ -1,73 +1,131 @@
 # Hi 👋, I'm Ganesh Reddy
 
-## Python Backend Developer | AWS Cloud | PySpark | Data Engineer
+<h3 align="center">Python Backend Developer | Django | AWS | PySpark | Data Engineer</h3>
 
-I'm a Software Engineer specializing in **Python Backend Development, AWS Cloud, and Data Engineering**. I enjoy building scalable backend applications, cloud-native data pipelines, and production-ready REST APIs using modern technologies.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Django+REST+Framework;AWS+Cloud+Engineer;PySpark+Data+Engineer;Always+Learning+New+Technologies;Building+Production+Ready+Applications" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=magasaniganeshkumar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💼 Professional Summary
+# 👨‍💻 About Me
 
 - 💻 Python Backend Developer
-- ☁️ AWS Cloud Engineer
-- 📊 Data Engineer
-- ⚡ PySpark Developer
 - 🌐 Django & Django REST Framework
+- ☁️ AWS Cloud Engineer
+- 📊 PySpark & Data Engineering
+- 🐳 Docker Enthusiast
+- 🌱 Currently building **Farm2Home Backend**
+- 🚀 Passionate about scalable backend systems
+- 🎯 Goal: Become a Senior Backend Engineer
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- SQL
+### Languages
 
-### Backend Development
-- Django
-- Django REST Framework
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge)
 
 ### Cloud & DevOps
-- AWS 
-- Git & GitHub
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Data Engineering
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 Farm2Home Backend
+
+- Django REST Framework
+- JWT Authentication
+- Docker
+- Swagger
+- AWS Ready
+- Clean Architecture
+
+---
+
+## ☁️ AWS ETL Pipeline
+
+- Python
 - PySpark
 - AWS Glue
-- AWS
-- ETL Pipelines
-- Data Processing
-
-### Databases
-- MySQL
-- Amazon RDS
+- Amazon S3
+- Athena
 
 ---
 
-## 🌱 Currently Working On
+# 📊 GitHub Stats
 
-- 🚀 Farm2Home – Production-Ready Django REST Backend
-- ☁️ AWS Cloud Architecture
-- 📊 Data Engineering Projects
-- 🏗️ System Design
-- 🔄 CI/CD & Docker
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=magasaniganeshkumar&show_icons=true&theme=tokyonight"/>
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magasaniganeshkumar&layout=compact&theme=tokyonight"/>
+</p>
 
-## 📌 Featured Projects
-
-- 🚀 Farm2Home Backend
-- ☁️ AWS Employee ETL Project
-- 📊 PySpark
-- 🌐 Django REST APIs
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=magasaniganeshkumar&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 GitHub Trophies
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ganesh-magasani-413373307
-- 💻 GitHub: https://github.com/magasaniganeshkumar
-- 📧 Email: ganeshm1921@gmail.com
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=magasaniganeshkumar&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *Passionate about building scalable backend systems, cloud-native applications, and modern data engineering solutions.*
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=magasaniganeshkumar&theme=tokyo-night"/>
+</p>
+
+---
+
+# 💼 Experience
+
+**Systems Engineer – TCS**
+
+- Python Backend Development
+- Django REST Framework
+- AWS Cloud
+- PySpark
+- Data Engineering
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/magasaniganeshkumar
+- LinkedIn: https://www.linkedin.com/in/ganesh-magasani-413373307
+- Email: your-email@example.com
+
+---
+
+# 💬 Quote
+
+> **"First, solve the problem. Then, write clean, scalable code."**
+
+⭐ Thanks for visiting my profile!
