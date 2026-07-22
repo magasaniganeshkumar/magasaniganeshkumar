@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ganesh Reddy
+# Hi 👋, I'm Ganesh Kumar Reddy
 
 ## Python Backend Developer | AWS Cloud | PySpark | Data Engineer
 
@@ -25,12 +25,9 @@ I'm a Software Engineer specializing in **Python Backend Development, AWS Cloud,
 ### Backend Development
 - Django
 - Django REST Framework
-- REST APIs
-- JWT Authentication
 
 ### Cloud & DevOps
-- AWS (S3, Lambda, Glue, ECS, IAM, Athena, EC2)
-- Docker
+- AWS 
 - Git & GitHub
 
 ### Data Engineering
