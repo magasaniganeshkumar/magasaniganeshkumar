@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ganesh Kumar Reddy
+# Hi 👋, I'm Ganesh Reddy
 
 ## Python Backend Developer | AWS Cloud | PySpark | Data Engineer
 
