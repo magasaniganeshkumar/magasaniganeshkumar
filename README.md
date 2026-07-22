@@ -36,7 +36,7 @@ I'm a Software Engineer specializing in **Python Backend Development, AWS Cloud,
 ### Data Engineering
 - PySpark
 - AWS Glue
-- Apache Airflow
+- AWS
 - ETL Pipelines
 - Data Processing
 
